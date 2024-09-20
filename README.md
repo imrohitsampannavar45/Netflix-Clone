@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 
 ## Preview
 
-[youtube clone.webm](https://github.com/user-attachments/assets/e3dee161-c0ef-4141-b34d-a10d4899984b)
